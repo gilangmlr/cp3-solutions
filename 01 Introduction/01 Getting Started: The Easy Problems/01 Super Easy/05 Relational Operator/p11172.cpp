@@ -5,6 +5,7 @@ using namespace std;
 int main() {
   int tc;
   cin >> tc;
+
   while (tc--) {
     int a;
     int b;
@@ -22,5 +23,6 @@ int main() {
     }
 
   }
+  
   return 0;
 }
